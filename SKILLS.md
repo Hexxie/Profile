@@ -4,7 +4,7 @@
 🟦 Basic knowledge (can read code or execute as a basic user)  
 🟨 Medium knowledge (Can read and write code but without advanced knowledge)  
 🟩 Professional usage  
-🟥 <Reserved>  
+🟥 Reserved  
 
 ## Programming Languages
 
